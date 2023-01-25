@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>MauiApp1</name>
+    </assembly>
+    <members>
+        <member name="F:MauiApp1.ViewModel.MainPageViewModel.getTaskCommand">
+            <summary>The backing field for <see cref="P:MauiApp1.ViewModel.MainPageViewModel.GetTaskCommand"/>.</summary>
+        </member>
+        <member name="P:MauiApp1.ViewModel.MainPageViewModel.GetTaskCommand">
+            <summary>Gets an <see cref="T:CommunityToolkit.Mvvm.Input.IAsyncRelayCommand"/> instance wrapping <see cref="M:MauiApp1.ViewModel.MainPageViewModel.GetTaskAsync"/>.</summary>
+        </member>
+    </members>
+</doc>
