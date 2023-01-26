@@ -14,9 +14,9 @@ namespace MauiApp1.Services
         {
             httpClient = new HttpClient();
         }
-        List<Location> locations = new();
+        List<Model.Location> locations = new();
 
-        public async Task<List<Location>> GetLocationsAsync()
+        public async Task<List<Model.Location>> GetLocationsAsync()
         {
             if (locations?.Count > 0)
                 return locations;
@@ -26,7 +26,7 @@ namespace MauiApp1.Services
 
             if(response.IsSuccessStatusCode)
             {
-                locations=await response.Content.ReadFromJsonAsync<List<Location>>(); 
+                locations=await response.Content.ReadFromJsonAsync<List<Model.Location>>(); 
             }
             return locations;
         }

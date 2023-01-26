@@ -11,7 +11,7 @@ namespace MauiApp1.ViewModel
 {
     public partial class MainPageViewModel
     {
-        public ObservableCollection<Location> Locations { get; set; } = new();
+        public ObservableCollection<Model.Location> Locations { get; set; } = new();
         readonly IConnectivity connectivity;
         readonly LocationService locationService;
 
