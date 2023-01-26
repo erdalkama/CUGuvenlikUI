@@ -11,7 +11,7 @@
     <Grid RowDefinitions="6*,4*">
         <Frame Grid.Row="0"
                Padding="10"
-               BorderColor="DarkCyan">
+               BorderColor="WhiteSmoke">
             <maps:Map IsShowingUser="True">
                 <x:Arguments>
                     <MapSpan>
@@ -31,18 +31,18 @@
         </Frame>
         <Frame Grid.Row="1">
             <CollectionView ItemsSource="{Binding Locations}">
-            
+
                 <CollectionView.ItemTemplate>
                     <DataTemplate x:DataType="model:Location">
-                        <Frame Padding="10">
-                            <Grid RowDefinitions="*,*,*" BackgroundColor="Green" Padding="0" RowSpacing="10">
-                                <Label Text="{Binding PlaceName}" BackgroundColor="DarkSlateGray" VerticalOptions="Center" Padding="0" HeightRequest="50" Grid.Row="0"/>
-                                <Label Text="{Binding Longitude}" BackgroundColor="DarkSlateGray" VerticalOptions="Center" Padding="0" HeightRequest="50" Grid.Row="1"/>
-                                <Label Text="{Binding Latitude}" BackgroundColor="DarkSlateGray" VerticalOptions="Center" Padding="0" HeightRequest="50" Grid.Row="2"/>
+                        <Frame Padding="15">
+                            <Grid RowDefinitions="*,*,*" BackgroundColor="WhiteSmoke" Padding="0" RowSpacing="1">
+                                <Label Text="{Binding PlaceName}" BackgroundColor="White" VerticalOptions="Center" Padding="0" HeightRequest="25" Grid.Row="0"/>
+                                <Label Text="{Binding Longitude}" BackgroundColor="White" VerticalOptions="Center" Padding="0" HeightRequest="25" Grid.Row="1"/>
+                                <Label Text="{Binding Latitude}" BackgroundColor="White" VerticalOptions="Center" Padding="0" HeightRequest="25" Grid.Row="2"/>
                             </Grid>
-                           
+
                         </Frame>
-                        
+
                     </DataTemplate>
                 </CollectionView.ItemTemplate>
             </CollectionView>

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "elbGgfNmoKgZHpolPr6iUp1TLONehDSb3SHO/IvZFkESnxt04ofittNnuzHU8oEmtivUsjAG2FmWCKPYbejivw==",
+  "dgSpecHash": "ry3chR0L1GKeCZHMlAciJ/ttRs//U6p46ui/2tySQz5zheWu1aFC1qHyT01BND7D8IZi9QHOsT6DvrHL8SV6lw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Win10\\source\\repos\\MauiApp1\\MauiApp1\\MauiApp1.csproj",
+  "projectFilePath": "C:\\Users\\Win10\\source\\repos\\CUGuvenlikUI\\MauiApp1\\MauiApp1.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Win10\\.nuget\\packages\\communitytoolkit.mvvm\\8.1.0\\communitytoolkit.mvvm.8.1.0.nupkg.sha512",
     "C:\\Users\\Win10\\.nuget\\packages\\googlegson\\2.9.1.1\\googlegson.2.9.1.1.nupkg.sha512",

@@ -17,7 +17,7 @@ public partial class MainPage : ContentPage
         base.OnAppearing();
 		_viewModel.GetTaskCommand.Execute(null);
     }
-
+  
 
 }
 

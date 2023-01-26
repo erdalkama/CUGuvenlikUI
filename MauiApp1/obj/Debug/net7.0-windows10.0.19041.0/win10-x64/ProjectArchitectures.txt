@@ -1,1 +1,1 @@
-C:\Users\Win10\source\repos\MauiApp1\MauiApp1\MauiApp1.csproj;x64
+C:\Users\Win10\source\repos\CUGuvenlikUI\MauiApp1\MauiApp1.csproj;x64
