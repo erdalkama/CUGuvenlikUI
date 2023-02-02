@@ -31,13 +31,15 @@ namespace MauiApp1.ViewModel
             }
             try
             {
-                var location=await locationService.GetLocationsAsync();
-                if (Locations.Count!=0) Locations.Clear();
+                var location = await locationService.GetLocationsAsync();
+                if (Locations.Count != 0) Locations.Clear();
                 location.ForEach(location => Locations.Add(location));
-            }catch(Exception ex)
+            }
+            catch (Exception ex)
             {
-                await Shell.Current.DisplayAlert("Veri okunamadı",ex.Message, "Tamam");
+                await Shell.Current.DisplayAlert("Veri okunamadı", ex.Message, "Tamam");
             }
         }
+      
     }
 }

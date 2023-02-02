@@ -200,10 +200,10 @@
           "buildTransitive/net6.0/_._": {}
         }
       },
-      "Microsoft.Maui.Controls.Maps/7.0.58": {
+      "Microsoft.Maui.Controls.Maps/7.0.59": {
         "type": "package",
         "dependencies": {
-          "Microsoft.Maui.Maps": "7.0.58"
+          "Microsoft.Maui.Maps": "7.0.59"
         },
         "compile": {
           "lib/net7.0-android33.0/Microsoft.Maui.Controls.Maps.dll": {
@@ -229,7 +229,7 @@
           }
         }
       },
-      "Microsoft.Maui.Maps/7.0.58": {
+      "Microsoft.Maui.Maps/7.0.59": {
         "type": "package",
         "dependencies": {
           "Xamarin.GooglePlayServices.Maps": "118.1.0"
@@ -2268,10 +2268,10 @@
           "buildTransitive/net6.0/_._": {}
         }
       },
-      "Microsoft.Maui.Controls.Maps/7.0.58": {
+      "Microsoft.Maui.Controls.Maps/7.0.59": {
         "type": "package",
         "dependencies": {
-          "Microsoft.Maui.Maps": "7.0.58"
+          "Microsoft.Maui.Maps": "7.0.59"
         },
         "compile": {
           "lib/net7.0-android33.0/Microsoft.Maui.Controls.Maps.dll": {
@@ -2297,7 +2297,7 @@
           }
         }
       },
-      "Microsoft.Maui.Maps/7.0.58": {
+      "Microsoft.Maui.Maps/7.0.59": {
         "type": "package",
         "dependencies": {
           "Xamarin.GooglePlayServices.Maps": "118.1.0"
@@ -4336,10 +4336,10 @@
           "buildTransitive/net6.0/_._": {}
         }
       },
-      "Microsoft.Maui.Controls.Maps/7.0.58": {
+      "Microsoft.Maui.Controls.Maps/7.0.59": {
         "type": "package",
         "dependencies": {
-          "Microsoft.Maui.Maps": "7.0.58"
+          "Microsoft.Maui.Maps": "7.0.59"
         },
         "compile": {
           "lib/net7.0-android33.0/Microsoft.Maui.Controls.Maps.dll": {
@@ -4365,7 +4365,7 @@
           }
         }
       },
-      "Microsoft.Maui.Maps/7.0.58": {
+      "Microsoft.Maui.Maps/7.0.59": {
         "type": "package",
         "dependencies": {
           "Xamarin.GooglePlayServices.Maps": "118.1.0"
@@ -6404,10 +6404,10 @@
           "buildTransitive/net6.0/_._": {}
         }
       },
-      "Microsoft.Maui.Controls.Maps/7.0.58": {
+      "Microsoft.Maui.Controls.Maps/7.0.59": {
         "type": "package",
         "dependencies": {
-          "Microsoft.Maui.Maps": "7.0.58"
+          "Microsoft.Maui.Maps": "7.0.59"
         },
         "compile": {
           "lib/net7.0-android33.0/Microsoft.Maui.Controls.Maps.dll": {
@@ -6433,7 +6433,7 @@
           }
         }
       },
-      "Microsoft.Maui.Maps/7.0.58": {
+      "Microsoft.Maui.Maps/7.0.59": {
         "type": "package",
         "dependencies": {
           "Xamarin.GooglePlayServices.Maps": "118.1.0"
@@ -8472,10 +8472,10 @@
           "buildTransitive/net6.0/_._": {}
         }
       },
-      "Microsoft.Maui.Controls.Maps/7.0.58": {
+      "Microsoft.Maui.Controls.Maps/7.0.59": {
         "type": "package",
         "dependencies": {
-          "Microsoft.Maui.Maps": "7.0.58"
+          "Microsoft.Maui.Maps": "7.0.59"
         },
         "compile": {
           "lib/net7.0-android33.0/Microsoft.Maui.Controls.Maps.dll": {
@@ -8501,7 +8501,7 @@
           }
         }
       },
-      "Microsoft.Maui.Maps/7.0.58": {
+      "Microsoft.Maui.Maps/7.0.59": {
         "type": "package",
         "dependencies": {
           "Xamarin.GooglePlayServices.Maps": "118.1.0"
@@ -10540,10 +10540,10 @@
           "buildTransitive/net6.0/_._": {}
         }
       },
-      "Microsoft.Maui.Controls.Maps/7.0.58": {
+      "Microsoft.Maui.Controls.Maps/7.0.59": {
         "type": "package",
         "dependencies": {
-          "Microsoft.Maui.Maps": "7.0.58"
+          "Microsoft.Maui.Maps": "7.0.59"
         },
         "compile": {
           "lib/net7.0-android33.0/Microsoft.Maui.Controls.Maps.dll": {
@@ -10569,7 +10569,7 @@
           }
         }
       },
-      "Microsoft.Maui.Maps/7.0.58": {
+      "Microsoft.Maui.Maps/7.0.59": {
         "type": "package",
         "dependencies": {
           "Xamarin.GooglePlayServices.Maps": "118.1.0"
@@ -12608,10 +12608,10 @@
           "buildTransitive/net6.0/_._": {}
         }
       },
-      "Microsoft.Maui.Controls.Maps/7.0.58": {
+      "Microsoft.Maui.Controls.Maps/7.0.59": {
         "type": "package",
         "dependencies": {
-          "Microsoft.Maui.Maps": "7.0.58"
+          "Microsoft.Maui.Maps": "7.0.59"
         },
         "compile": {
           "lib/net7.0-android33.0/Microsoft.Maui.Controls.Maps.dll": {
@@ -12637,7 +12637,7 @@
           }
         }
       },
-      "Microsoft.Maui.Maps/7.0.58": {
+      "Microsoft.Maui.Maps/7.0.59": {
         "type": "package",
         "dependencies": {
           "Xamarin.GooglePlayServices.Maps": "118.1.0"
@@ -14676,10 +14676,10 @@
           "buildTransitive/net6.0/_._": {}
         }
       },
-      "Microsoft.Maui.Controls.Maps/7.0.58": {
+      "Microsoft.Maui.Controls.Maps/7.0.59": {
         "type": "package",
         "dependencies": {
-          "Microsoft.Maui.Maps": "7.0.58"
+          "Microsoft.Maui.Maps": "7.0.59"
         },
         "compile": {
           "lib/net7.0-android33.0/Microsoft.Maui.Controls.Maps.dll": {
@@ -14705,7 +14705,7 @@
           }
         }
       },
-      "Microsoft.Maui.Maps/7.0.58": {
+      "Microsoft.Maui.Maps/7.0.59": {
         "type": "package",
         "dependencies": {
           "Xamarin.GooglePlayServices.Maps": "118.1.0"
@@ -16731,10 +16731,10 @@
           "buildTransitive/net6.0/_._": {}
         }
       },
-      "Microsoft.Maui.Controls.Maps/7.0.58": {
+      "Microsoft.Maui.Controls.Maps/7.0.59": {
         "type": "package",
         "dependencies": {
-          "Microsoft.Maui.Maps": "7.0.58"
+          "Microsoft.Maui.Maps": "7.0.59"
         },
         "compile": {
           "lib/net7.0-ios16.1/Microsoft.Maui.Controls.Maps.dll": {
@@ -16760,7 +16760,7 @@
           }
         }
       },
-      "Microsoft.Maui.Maps/7.0.58": {
+      "Microsoft.Maui.Maps/7.0.59": {
         "type": "package",
         "compile": {
           "lib/net7.0-ios16.1/Microsoft.Maui.Maps.dll": {
@@ -16960,10 +16960,10 @@
           "buildTransitive/net6.0/_._": {}
         }
       },
-      "Microsoft.Maui.Controls.Maps/7.0.58": {
+      "Microsoft.Maui.Controls.Maps/7.0.59": {
         "type": "package",
         "dependencies": {
-          "Microsoft.Maui.Maps": "7.0.58"
+          "Microsoft.Maui.Maps": "7.0.59"
         },
         "compile": {
           "lib/net7.0-ios16.1/Microsoft.Maui.Controls.Maps.dll": {
@@ -16989,7 +16989,7 @@
           }
         }
       },
-      "Microsoft.Maui.Maps/7.0.58": {
+      "Microsoft.Maui.Maps/7.0.59": {
         "type": "package",
         "compile": {
           "lib/net7.0-ios16.1/Microsoft.Maui.Maps.dll": {
@@ -17189,10 +17189,10 @@
           "buildTransitive/net6.0/_._": {}
         }
       },
-      "Microsoft.Maui.Controls.Maps/7.0.58": {
+      "Microsoft.Maui.Controls.Maps/7.0.59": {
         "type": "package",
         "dependencies": {
-          "Microsoft.Maui.Maps": "7.0.58"
+          "Microsoft.Maui.Maps": "7.0.59"
         },
         "compile": {
           "lib/net7.0-ios16.1/Microsoft.Maui.Controls.Maps.dll": {
@@ -17218,7 +17218,7 @@
           }
         }
       },
-      "Microsoft.Maui.Maps/7.0.58": {
+      "Microsoft.Maui.Maps/7.0.59": {
         "type": "package",
         "compile": {
           "lib/net7.0-ios16.1/Microsoft.Maui.Maps.dll": {
@@ -17418,10 +17418,10 @@
           "buildTransitive/net6.0/_._": {}
         }
       },
-      "Microsoft.Maui.Controls.Maps/7.0.58": {
+      "Microsoft.Maui.Controls.Maps/7.0.59": {
         "type": "package",
         "dependencies": {
-          "Microsoft.Maui.Maps": "7.0.58"
+          "Microsoft.Maui.Maps": "7.0.59"
         },
         "compile": {
           "lib/net7.0-ios16.1/Microsoft.Maui.Controls.Maps.dll": {
@@ -17447,7 +17447,7 @@
           }
         }
       },
-      "Microsoft.Maui.Maps/7.0.58": {
+      "Microsoft.Maui.Maps/7.0.59": {
         "type": "package",
         "compile": {
           "lib/net7.0-ios16.1/Microsoft.Maui.Maps.dll": {
@@ -17647,10 +17647,10 @@
           "buildTransitive/net6.0/_._": {}
         }
       },
-      "Microsoft.Maui.Controls.Maps/7.0.58": {
+      "Microsoft.Maui.Controls.Maps/7.0.59": {
         "type": "package",
         "dependencies": {
-          "Microsoft.Maui.Maps": "7.0.58"
+          "Microsoft.Maui.Maps": "7.0.59"
         },
         "compile": {
           "lib/net7.0-ios16.1/Microsoft.Maui.Controls.Maps.dll": {
@@ -17676,7 +17676,7 @@
           }
         }
       },
-      "Microsoft.Maui.Maps/7.0.58": {
+      "Microsoft.Maui.Maps/7.0.59": {
         "type": "package",
         "compile": {
           "lib/net7.0-ios16.1/Microsoft.Maui.Maps.dll": {
@@ -17876,10 +17876,10 @@
           "buildTransitive/net6.0/_._": {}
         }
       },
-      "Microsoft.Maui.Controls.Maps/7.0.58": {
+      "Microsoft.Maui.Controls.Maps/7.0.59": {
         "type": "package",
         "dependencies": {
-          "Microsoft.Maui.Maps": "7.0.58"
+          "Microsoft.Maui.Maps": "7.0.59"
         },
         "compile": {
           "lib/net7.0-ios16.1/Microsoft.Maui.Controls.Maps.dll": {
@@ -17905,7 +17905,7 @@
           }
         }
       },
-      "Microsoft.Maui.Maps/7.0.58": {
+      "Microsoft.Maui.Maps/7.0.59": {
         "type": "package",
         "compile": {
           "lib/net7.0-ios16.1/Microsoft.Maui.Maps.dll": {
@@ -18105,10 +18105,10 @@
           "buildTransitive/net6.0/_._": {}
         }
       },
-      "Microsoft.Maui.Controls.Maps/7.0.58": {
+      "Microsoft.Maui.Controls.Maps/7.0.59": {
         "type": "package",
         "dependencies": {
-          "Microsoft.Maui.Maps": "7.0.58"
+          "Microsoft.Maui.Maps": "7.0.59"
         },
         "compile": {
           "lib/net7.0-ios16.1/Microsoft.Maui.Controls.Maps.dll": {
@@ -18134,7 +18134,7 @@
           }
         }
       },
-      "Microsoft.Maui.Maps/7.0.58": {
+      "Microsoft.Maui.Maps/7.0.59": {
         "type": "package",
         "compile": {
           "lib/net7.0-ios16.1/Microsoft.Maui.Maps.dll": {
@@ -18334,10 +18334,10 @@
           "buildTransitive/net6.0/_._": {}
         }
       },
-      "Microsoft.Maui.Controls.Maps/7.0.58": {
+      "Microsoft.Maui.Controls.Maps/7.0.59": {
         "type": "package",
         "dependencies": {
-          "Microsoft.Maui.Maps": "7.0.58"
+          "Microsoft.Maui.Maps": "7.0.59"
         },
         "compile": {
           "lib/net7.0-ios16.1/Microsoft.Maui.Controls.Maps.dll": {
@@ -18363,7 +18363,7 @@
           }
         }
       },
-      "Microsoft.Maui.Maps/7.0.58": {
+      "Microsoft.Maui.Maps/7.0.59": {
         "type": "package",
         "compile": {
           "lib/net7.0-ios16.1/Microsoft.Maui.Maps.dll": {
@@ -18563,10 +18563,10 @@
           "buildTransitive/net6.0/_._": {}
         }
       },
-      "Microsoft.Maui.Controls.Maps/7.0.58": {
+      "Microsoft.Maui.Controls.Maps/7.0.59": {
         "type": "package",
         "dependencies": {
-          "Microsoft.Maui.Maps": "7.0.58"
+          "Microsoft.Maui.Maps": "7.0.59"
         },
         "compile": {
           "lib/net7.0-maccatalyst16.1/Microsoft.Maui.Controls.Maps.dll": {
@@ -18592,7 +18592,7 @@
           }
         }
       },
-      "Microsoft.Maui.Maps/7.0.58": {
+      "Microsoft.Maui.Maps/7.0.59": {
         "type": "package",
         "compile": {
           "lib/net7.0-maccatalyst16.1/Microsoft.Maui.Maps.dll": {
@@ -18792,10 +18792,10 @@
           "buildTransitive/net6.0/_._": {}
         }
       },
-      "Microsoft.Maui.Controls.Maps/7.0.58": {
+      "Microsoft.Maui.Controls.Maps/7.0.59": {
         "type": "package",
         "dependencies": {
-          "Microsoft.Maui.Maps": "7.0.58"
+          "Microsoft.Maui.Maps": "7.0.59"
         },
         "compile": {
           "lib/net7.0-maccatalyst16.1/Microsoft.Maui.Controls.Maps.dll": {
@@ -18821,7 +18821,7 @@
           }
         }
       },
-      "Microsoft.Maui.Maps/7.0.58": {
+      "Microsoft.Maui.Maps/7.0.59": {
         "type": "package",
         "compile": {
           "lib/net7.0-maccatalyst16.1/Microsoft.Maui.Maps.dll": {
@@ -19021,10 +19021,10 @@
           "buildTransitive/net6.0/_._": {}
         }
       },
-      "Microsoft.Maui.Controls.Maps/7.0.58": {
+      "Microsoft.Maui.Controls.Maps/7.0.59": {
         "type": "package",
         "dependencies": {
-          "Microsoft.Maui.Maps": "7.0.58"
+          "Microsoft.Maui.Maps": "7.0.59"
         },
         "compile": {
           "lib/net7.0-maccatalyst16.1/Microsoft.Maui.Controls.Maps.dll": {
@@ -19050,7 +19050,7 @@
           }
         }
       },
-      "Microsoft.Maui.Maps/7.0.58": {
+      "Microsoft.Maui.Maps/7.0.59": {
         "type": "package",
         "compile": {
           "lib/net7.0-maccatalyst16.1/Microsoft.Maui.Maps.dll": {
@@ -19250,10 +19250,10 @@
           "buildTransitive/net6.0/_._": {}
         }
       },
-      "Microsoft.Maui.Controls.Maps/7.0.58": {
+      "Microsoft.Maui.Controls.Maps/7.0.59": {
         "type": "package",
         "dependencies": {
-          "Microsoft.Maui.Maps": "7.0.58"
+          "Microsoft.Maui.Maps": "7.0.59"
         },
         "compile": {
           "lib/net7.0-maccatalyst16.1/Microsoft.Maui.Controls.Maps.dll": {
@@ -19279,7 +19279,7 @@
           }
         }
       },
-      "Microsoft.Maui.Maps/7.0.58": {
+      "Microsoft.Maui.Maps/7.0.59": {
         "type": "package",
         "compile": {
           "lib/net7.0-maccatalyst16.1/Microsoft.Maui.Maps.dll": {
@@ -19479,10 +19479,10 @@
           "buildTransitive/net6.0/_._": {}
         }
       },
-      "Microsoft.Maui.Controls.Maps/7.0.58": {
+      "Microsoft.Maui.Controls.Maps/7.0.59": {
         "type": "package",
         "dependencies": {
-          "Microsoft.Maui.Maps": "7.0.58"
+          "Microsoft.Maui.Maps": "7.0.59"
         },
         "compile": {
           "lib/net7.0-maccatalyst16.1/Microsoft.Maui.Controls.Maps.dll": {
@@ -19508,7 +19508,7 @@
           }
         }
       },
-      "Microsoft.Maui.Maps/7.0.58": {
+      "Microsoft.Maui.Maps/7.0.59": {
         "type": "package",
         "compile": {
           "lib/net7.0-maccatalyst16.1/Microsoft.Maui.Maps.dll": {
@@ -19708,10 +19708,10 @@
           "buildTransitive/net6.0/_._": {}
         }
       },
-      "Microsoft.Maui.Controls.Maps/7.0.58": {
+      "Microsoft.Maui.Controls.Maps/7.0.59": {
         "type": "package",
         "dependencies": {
-          "Microsoft.Maui.Maps": "7.0.58"
+          "Microsoft.Maui.Maps": "7.0.59"
         },
         "compile": {
           "lib/net7.0-maccatalyst16.1/Microsoft.Maui.Controls.Maps.dll": {
@@ -19737,7 +19737,7 @@
           }
         }
       },
-      "Microsoft.Maui.Maps/7.0.58": {
+      "Microsoft.Maui.Maps/7.0.59": {
         "type": "package",
         "compile": {
           "lib/net7.0-maccatalyst16.1/Microsoft.Maui.Maps.dll": {
@@ -19937,10 +19937,10 @@
           "buildTransitive/net6.0/_._": {}
         }
       },
-      "Microsoft.Maui.Controls.Maps/7.0.58": {
+      "Microsoft.Maui.Controls.Maps/7.0.59": {
         "type": "package",
         "dependencies": {
-          "Microsoft.Maui.Maps": "7.0.58"
+          "Microsoft.Maui.Maps": "7.0.59"
         },
         "compile": {
           "lib/net7.0-maccatalyst16.1/Microsoft.Maui.Controls.Maps.dll": {
@@ -19966,7 +19966,7 @@
           }
         }
       },
-      "Microsoft.Maui.Maps/7.0.58": {
+      "Microsoft.Maui.Maps/7.0.59": {
         "type": "package",
         "compile": {
           "lib/net7.0-maccatalyst16.1/Microsoft.Maui.Maps.dll": {
@@ -20166,10 +20166,10 @@
           "buildTransitive/net6.0/_._": {}
         }
       },
-      "Microsoft.Maui.Controls.Maps/7.0.58": {
+      "Microsoft.Maui.Controls.Maps/7.0.59": {
         "type": "package",
         "dependencies": {
-          "Microsoft.Maui.Maps": "7.0.58"
+          "Microsoft.Maui.Maps": "7.0.59"
         },
         "compile": {
           "lib/net7.0-maccatalyst16.1/Microsoft.Maui.Controls.Maps.dll": {
@@ -20195,7 +20195,7 @@
           }
         }
       },
-      "Microsoft.Maui.Maps/7.0.58": {
+      "Microsoft.Maui.Maps/7.0.59": {
         "type": "package",
         "compile": {
           "lib/net7.0-maccatalyst16.1/Microsoft.Maui.Maps.dll": {
@@ -20424,10 +20424,10 @@
           }
         }
       },
-      "Microsoft.Maui.Controls.Maps/7.0.58": {
+      "Microsoft.Maui.Controls.Maps/7.0.59": {
         "type": "package",
         "dependencies": {
-          "Microsoft.Maui.Maps": "7.0.58"
+          "Microsoft.Maui.Maps": "7.0.59"
         },
         "compile": {
           "lib/net7.0-windows10.0.19041/Microsoft.Maui.Controls.Maps.dll": {
@@ -20471,7 +20471,7 @@
           }
         }
       },
-      "Microsoft.Maui.Maps/7.0.58": {
+      "Microsoft.Maui.Maps/7.0.59": {
         "type": "package",
         "compile": {
           "lib/net7.0-windows10.0.19041/Microsoft.Maui.Maps.dll": {
@@ -20777,10 +20777,10 @@
           "build/net5.0-windows10.0.17763.0/_._": {}
         }
       },
-      "Microsoft.Maui.Controls.Maps/7.0.58": {
+      "Microsoft.Maui.Controls.Maps/7.0.59": {
         "type": "package",
         "dependencies": {
-          "Microsoft.Maui.Maps": "7.0.58"
+          "Microsoft.Maui.Maps": "7.0.59"
         },
         "compile": {
           "lib/net7.0-windows10.0.19041/Microsoft.Maui.Controls.Maps.dll": {
@@ -20824,7 +20824,7 @@
           }
         }
       },
-      "Microsoft.Maui.Maps/7.0.58": {
+      "Microsoft.Maui.Maps/7.0.59": {
         "type": "package",
         "compile": {
           "lib/net7.0-windows10.0.19041/Microsoft.Maui.Maps.dll": {
@@ -21116,10 +21116,10 @@
           "build/net5.0-windows10.0.17763.0/_._": {}
         }
       },
-      "Microsoft.Maui.Controls.Maps/7.0.58": {
+      "Microsoft.Maui.Controls.Maps/7.0.59": {
         "type": "package",
         "dependencies": {
-          "Microsoft.Maui.Maps": "7.0.58"
+          "Microsoft.Maui.Maps": "7.0.59"
         },
         "compile": {
           "lib/net7.0-windows10.0.19041/Microsoft.Maui.Controls.Maps.dll": {
@@ -21163,7 +21163,7 @@
           }
         }
       },
-      "Microsoft.Maui.Maps/7.0.58": {
+      "Microsoft.Maui.Maps/7.0.59": {
         "type": "package",
         "compile": {
           "lib/net7.0-windows10.0.19041/Microsoft.Maui.Maps.dll": {
@@ -21455,10 +21455,10 @@
           "build/net5.0-windows10.0.17763.0/_._": {}
         }
       },
-      "Microsoft.Maui.Controls.Maps/7.0.58": {
+      "Microsoft.Maui.Controls.Maps/7.0.59": {
         "type": "package",
         "dependencies": {
-          "Microsoft.Maui.Maps": "7.0.58"
+          "Microsoft.Maui.Maps": "7.0.59"
         },
         "compile": {
           "lib/net7.0-windows10.0.19041/Microsoft.Maui.Controls.Maps.dll": {
@@ -21502,7 +21502,7 @@
           }
         }
       },
-      "Microsoft.Maui.Maps/7.0.58": {
+      "Microsoft.Maui.Maps/7.0.59": {
         "type": "package",
         "compile": {
           "lib/net7.0-windows10.0.19041/Microsoft.Maui.Maps.dll": {
@@ -21794,10 +21794,10 @@
           "build/net5.0-windows10.0.17763.0/_._": {}
         }
       },
-      "Microsoft.Maui.Controls.Maps/7.0.58": {
+      "Microsoft.Maui.Controls.Maps/7.0.59": {
         "type": "package",
         "dependencies": {
-          "Microsoft.Maui.Maps": "7.0.58"
+          "Microsoft.Maui.Maps": "7.0.59"
         },
         "compile": {
           "lib/net7.0-windows10.0.19041/Microsoft.Maui.Controls.Maps.dll": {
@@ -21841,7 +21841,7 @@
           }
         }
       },
-      "Microsoft.Maui.Maps/7.0.58": {
+      "Microsoft.Maui.Maps/7.0.59": {
         "type": "package",
         "compile": {
           "lib/net7.0-windows10.0.19041/Microsoft.Maui.Maps.dll": {
@@ -22133,10 +22133,10 @@
           "build/net5.0-windows10.0.17763.0/_._": {}
         }
       },
-      "Microsoft.Maui.Controls.Maps/7.0.58": {
+      "Microsoft.Maui.Controls.Maps/7.0.59": {
         "type": "package",
         "dependencies": {
-          "Microsoft.Maui.Maps": "7.0.58"
+          "Microsoft.Maui.Maps": "7.0.59"
         },
         "compile": {
           "lib/net7.0-windows10.0.19041/Microsoft.Maui.Controls.Maps.dll": {
@@ -22180,7 +22180,7 @@
           }
         }
       },
-      "Microsoft.Maui.Maps/7.0.58": {
+      "Microsoft.Maui.Maps/7.0.59": {
         "type": "package",
         "compile": {
           "lib/net7.0-windows10.0.19041/Microsoft.Maui.Maps.dll": {
@@ -22472,10 +22472,10 @@
           "build/net5.0-windows10.0.17763.0/_._": {}
         }
       },
-      "Microsoft.Maui.Controls.Maps/7.0.58": {
+      "Microsoft.Maui.Controls.Maps/7.0.59": {
         "type": "package",
         "dependencies": {
-          "Microsoft.Maui.Maps": "7.0.58"
+          "Microsoft.Maui.Maps": "7.0.59"
         },
         "compile": {
           "lib/net7.0-windows10.0.19041/Microsoft.Maui.Controls.Maps.dll": {
@@ -22519,7 +22519,7 @@
           }
         }
       },
-      "Microsoft.Maui.Maps/7.0.58": {
+      "Microsoft.Maui.Maps/7.0.59": {
         "type": "package",
         "compile": {
           "lib/net7.0-windows10.0.19041/Microsoft.Maui.Maps.dll": {
@@ -22814,10 +22814,10 @@
           "build/net5.0-windows10.0.17763.0/_._": {}
         }
       },
-      "Microsoft.Maui.Controls.Maps/7.0.58": {
+      "Microsoft.Maui.Controls.Maps/7.0.59": {
         "type": "package",
         "dependencies": {
-          "Microsoft.Maui.Maps": "7.0.58"
+          "Microsoft.Maui.Maps": "7.0.59"
         },
         "compile": {
           "lib/net7.0-windows10.0.19041/Microsoft.Maui.Controls.Maps.dll": {
@@ -22861,7 +22861,7 @@
           }
         }
       },
-      "Microsoft.Maui.Maps/7.0.58": {
+      "Microsoft.Maui.Maps/7.0.59": {
         "type": "package",
         "compile": {
           "lib/net7.0-windows10.0.19041/Microsoft.Maui.Maps.dll": {
@@ -23328,13 +23328,15 @@
         "runtimes/win10-x86/native/Microsoft.Graphics.Canvas.dll"
       ]
     },
-    "Microsoft.Maui.Controls.Maps/7.0.58": {
-      "sha512": "6QdL69y9pvuIDQ6hv9j1CRTIZrw20eAy2SNbxNPKdGWgSGOjM3hq0+KsYpGp0ymX4EBsCJ/u59pptXDT5zfh/g==",
+    "Microsoft.Maui.Controls.Maps/7.0.59": {
+      "sha512": "GyfXOuZ+/xEx0t6hFPEgxy9ftZXgXB3LVwgRMiAMFHWSuj2jQLdp0e/o5bVdijDMIkAgIYCKFcYAyfoWhs+eiA==",
       "type": "package",
-      "path": "microsoft.maui.controls.maps/7.0.58",
+      "path": "microsoft.maui.controls.maps/7.0.59",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
+        "LICENSE.TXT",
+        "THIRD-PARTY-NOTICES.TXT",
         "lib/net7.0-android33.0/Microsoft.Maui.Controls.Maps.aar",
         "lib/net7.0-android33.0/Microsoft.Maui.Controls.Maps.dll",
         "lib/net7.0-android33.0/Microsoft.Maui.Controls.Maps.pdb",
@@ -23363,7 +23365,7 @@
         "lib/netstandard2.1/Microsoft.Maui.Controls.Maps.dll",
         "lib/netstandard2.1/Microsoft.Maui.Controls.Maps.pdb",
         "lib/netstandard2.1/Microsoft.Maui.Controls.Maps.xml",
-        "microsoft.maui.controls.maps.7.0.58.nupkg.sha512",
+        "microsoft.maui.controls.maps.7.0.59.nupkg.sha512",
         "microsoft.maui.controls.maps.nuspec"
       ]
     },
@@ -23423,13 +23425,15 @@
         "microsoft.maui.graphics.win2d.winui.desktop.nuspec"
       ]
     },
-    "Microsoft.Maui.Maps/7.0.58": {
-      "sha512": "TuWtlzpfFdsxIfOEtXr0kvpK9imfPcANXzhDxBJ5Edpd4u3pKehlMDEpnql3b8n7diotttaOedJKRgM+/NNs5w==",
+    "Microsoft.Maui.Maps/7.0.59": {
+      "sha512": "pouT19REDx4YucNzuzICm/x261Qjs8ucKcVWSSS5S/bgp5p/40k/k6tIvDEQqQqJVdo4HrWkbubGBMXA4ymOcg==",
       "type": "package",
-      "path": "microsoft.maui.maps/7.0.58",
+      "path": "microsoft.maui.maps/7.0.59",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
+        "LICENSE.TXT",
+        "THIRD-PARTY-NOTICES.TXT",
         "lib/net7.0-android33.0/Microsoft.Maui.Maps.aar",
         "lib/net7.0-android33.0/Microsoft.Maui.Maps.dll",
         "lib/net7.0-android33.0/Microsoft.Maui.Maps.pdb",
@@ -23458,7 +23462,7 @@
         "lib/netstandard2.1/Microsoft.Maui.Maps.dll",
         "lib/netstandard2.1/Microsoft.Maui.Maps.pdb",
         "lib/netstandard2.1/Microsoft.Maui.Maps.xml",
-        "microsoft.maui.maps.7.0.58.nupkg.sha512",
+        "microsoft.maui.maps.7.0.59.nupkg.sha512",
         "microsoft.maui.maps.nuspec"
       ]
     },
@@ -26416,7 +26420,7 @@
       "Microsoft.Extensions.Logging >= 7.0.0",
       "Microsoft.Extensions.Logging.Abstractions >= 7.0.0",
       "Microsoft.Extensions.Logging.Debug >= 7.0.0",
-      "Microsoft.Maui.Controls.Maps >= 7.0.58",
+      "Microsoft.Maui.Controls.Maps >= 7.0.59",
       "Microsoft.Maui.Graphics >= 7.0.52",
       "Xamarin.Android.Glide >= 4.13.2.2",
       "Xamarin.AndroidX.Browser >= 1.4.0.3",
@@ -26437,7 +26441,7 @@
       "Microsoft.Extensions.Logging >= 7.0.0",
       "Microsoft.Extensions.Logging.Abstractions >= 7.0.0",
       "Microsoft.Extensions.Logging.Debug >= 7.0.0",
-      "Microsoft.Maui.Controls.Maps >= 7.0.58",
+      "Microsoft.Maui.Controls.Maps >= 7.0.59",
       "Microsoft.Maui.Graphics >= 7.0.52"
     ],
     "net7.0-maccatalyst16.1": [
@@ -26447,7 +26451,7 @@
       "Microsoft.Extensions.Logging >= 7.0.0",
       "Microsoft.Extensions.Logging.Abstractions >= 7.0.0",
       "Microsoft.Extensions.Logging.Debug >= 7.0.0",
-      "Microsoft.Maui.Controls.Maps >= 7.0.58",
+      "Microsoft.Maui.Controls.Maps >= 7.0.59",
       "Microsoft.Maui.Graphics >= 7.0.52"
     ],
     "net7.0-windows10.0.19041": [
@@ -26457,7 +26461,7 @@
       "Microsoft.Extensions.Logging >= 7.0.0",
       "Microsoft.Extensions.Logging.Abstractions >= 7.0.0",
       "Microsoft.Extensions.Logging.Debug >= 7.0.0",
-      "Microsoft.Maui.Controls.Maps >= 7.0.58",
+      "Microsoft.Maui.Controls.Maps >= 7.0.59",
       "Microsoft.Maui.Graphics >= 7.0.52",
       "Microsoft.Maui.Graphics.Win2D.WinUI.Desktop >= 7.0.52",
       "Microsoft.Windows.SDK.BuildTools >= 10.0.22621.755",
@@ -26555,7 +26559,7 @@
           },
           "Microsoft.Maui.Controls.Maps": {
             "target": "Package",
-            "version": "[7.0.58, )"
+            "version": "[7.0.59, )"
           },
           "Microsoft.Maui.Graphics": {
             "target": "Package",
@@ -26681,7 +26685,7 @@
           },
           "Microsoft.Maui.Controls.Maps": {
             "target": "Package",
-            "version": "[7.0.58, )"
+            "version": "[7.0.59, )"
           },
           "Microsoft.Maui.Graphics": {
             "target": "Package",
@@ -26752,7 +26756,7 @@
           },
           "Microsoft.Maui.Controls.Maps": {
             "target": "Package",
-            "version": "[7.0.58, )"
+            "version": "[7.0.59, )"
           },
           "Microsoft.Maui.Graphics": {
             "target": "Package",
@@ -26824,7 +26828,7 @@
           },
           "Microsoft.Maui.Controls.Maps": {
             "target": "Package",
-            "version": "[7.0.58, )"
+            "version": "[7.0.59, )"
           },
           "Microsoft.Maui.Graphics": {
             "target": "Package",

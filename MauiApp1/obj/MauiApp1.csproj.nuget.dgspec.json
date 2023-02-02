@@ -91,7 +91,7 @@
             },
             "Microsoft.Maui.Controls.Maps": {
               "target": "Package",
-              "version": "[7.0.58, )"
+              "version": "[7.0.59, )"
             },
             "Microsoft.Maui.Graphics": {
               "target": "Package",
@@ -217,7 +217,7 @@
             },
             "Microsoft.Maui.Controls.Maps": {
               "target": "Package",
-              "version": "[7.0.58, )"
+              "version": "[7.0.59, )"
             },
             "Microsoft.Maui.Graphics": {
               "target": "Package",
@@ -288,7 +288,7 @@
             },
             "Microsoft.Maui.Controls.Maps": {
               "target": "Package",
-              "version": "[7.0.58, )"
+              "version": "[7.0.59, )"
             },
             "Microsoft.Maui.Graphics": {
               "target": "Package",
@@ -360,7 +360,7 @@
             },
             "Microsoft.Maui.Controls.Maps": {
               "target": "Package",
-              "version": "[7.0.58, )"
+              "version": "[7.0.59, )"
             },
             "Microsoft.Maui.Graphics": {
               "target": "Package",

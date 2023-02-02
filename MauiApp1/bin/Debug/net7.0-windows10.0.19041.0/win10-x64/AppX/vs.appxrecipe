@@ -30,25 +30,25 @@
     <AppXManifest Include="C:\Users\Win10\source\repos\CUGuvenlikUI\MauiApp1\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2023-01-26T13:20:49.112</Modified>
+      <Modified>2023-02-01T10:35:18.054</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="C:\Users\Win10\source\repos\CUGuvenlikUI\MauiApp1\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2023-01-26T13:20:48.744</Modified>
+      <Modified>2023-02-01T10:35:17.394</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Win10\source\repos\CUGuvenlikUI\MauiApp1\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\MauiApp1.runtimeconfig.json">
       <PackagePath>MauiApp1.runtimeconfig.json</PackagePath>
-      <Modified>2023-01-26T13:20:48.235</Modified>
+      <Modified>2023-02-01T10:05:18.425</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Win10\source\repos\CUGuvenlikUI\MauiApp1\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\MauiApp1.dll">
       <PackagePath>MauiApp1.dll</PackagePath>
-      <Modified>2023-01-26T13:20:46.332</Modified>
+      <Modified>2023-02-01T10:35:14.961</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Win10\source\repos\CUGuvenlikUI\MauiApp1\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\apphost.exe">
       <PackagePath>MauiApp1.exe</PackagePath>
-      <Modified>2023-01-26T13:20:46.376</Modified>
+      <Modified>2023-02-01T10:35:14.973</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Win10\.nuget\packages\microsoft.netcore.app.runtime.win-x64\7.0.2\runtimes\win-x64\lib\net7.0\Microsoft.CSharp.dll">
       <PackagePath>Microsoft.CSharp.dll</PackagePath>
@@ -850,9 +850,9 @@
       <PackagePath>Microsoft.Graphics.Canvas.Interop.dll</PackagePath>
       <Modified>2022-10-04T20:36:56.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Win10\.nuget\packages\microsoft.maui.controls.maps\7.0.58\lib\net7.0-windows10.0.19041\Microsoft.Maui.Controls.Maps.dll">
+    <AppxPackagedFile Include="C:\Users\Win10\.nuget\packages\microsoft.maui.controls.maps\7.0.59\lib\net7.0-windows10.0.19041\Microsoft.Maui.Controls.Maps.dll">
       <PackagePath>Microsoft.Maui.Controls.Maps.dll</PackagePath>
-      <Modified>2023-01-11T00:30:56.000</Modified>
+      <Modified>2023-01-19T17:23:50.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Win10\.nuget\packages\microsoft.maui.graphics\7.0.52\lib\net7.0-windows10.0.19041\Microsoft.Maui.Graphics.dll">
       <PackagePath>Microsoft.Maui.Graphics.dll</PackagePath>
@@ -862,9 +862,9 @@
       <PackagePath>Microsoft.Maui.Graphics.Win2D.WinUI.Desktop.dll</PackagePath>
       <Modified>2022-11-25T23:36:36.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Win10\.nuget\packages\microsoft.maui.maps\7.0.58\lib\net7.0-windows10.0.19041\Microsoft.Maui.Maps.dll">
+    <AppxPackagedFile Include="C:\Users\Win10\.nuget\packages\microsoft.maui.maps\7.0.59\lib\net7.0-windows10.0.19041\Microsoft.Maui.Maps.dll">
       <PackagePath>Microsoft.Maui.Maps.dll</PackagePath>
-      <Modified>2023-01-11T00:33:42.000</Modified>
+      <Modified>2023-01-19T17:24:10.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Win10\.nuget\packages\microsoft.windowsappsdk\1.2.221109.1\lib\net6.0-windows10.0.18362.0\Microsoft.InteractiveExperiences.Projection.dll">
       <PackagePath>Microsoft.InteractiveExperiences.Projection.dll</PackagePath>
@@ -932,7 +932,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Win10\source\repos\CUGuvenlikUI\MauiApp1\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\MauiApp1.deps.json">
       <PackagePath>MauiApp1.deps.json</PackagePath>
-      <Modified>2023-01-26T13:20:48.944</Modified>
+      <Modified>2023-02-01T10:35:17.949</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files\dotnet\packs\Microsoft.Maui.Controls.Ref.win\7.0.52\ref\net7.0-windows10.0.19041\Microsoft.Maui.Controls.Compatibility.pri">
       <PackagePath>Microsoft.Maui.Controls.Compatibility.pri</PackagePath>
@@ -952,23 +952,23 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Win10\source\repos\CUGuvenlikUI\MauiApp1\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-100.png">
       <PackagePath>splashSplashScreen.scale-100.png</PackagePath>
-      <Modified>2023-01-26T11:51:30.682</Modified>
+      <Modified>2023-02-01T07:49:54.432</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Win10\source\repos\CUGuvenlikUI\MauiApp1\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-125.png">
       <PackagePath>splashSplashScreen.scale-125.png</PackagePath>
-      <Modified>2023-01-26T11:51:30.682</Modified>
+      <Modified>2023-02-01T07:49:54.446</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Win10\source\repos\CUGuvenlikUI\MauiApp1\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-150.png">
       <PackagePath>splashSplashScreen.scale-150.png</PackagePath>
-      <Modified>2023-01-26T11:51:30.682</Modified>
+      <Modified>2023-02-01T07:49:54.465</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Win10\source\repos\CUGuvenlikUI\MauiApp1\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-200.png">
       <PackagePath>splashSplashScreen.scale-200.png</PackagePath>
-      <Modified>2023-01-26T11:51:30.682</Modified>
+      <Modified>2023-02-01T07:49:54.494</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Win10\source\repos\CUGuvenlikUI\MauiApp1\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-400.png">
       <PackagePath>splashSplashScreen.scale-400.png</PackagePath>
-      <Modified>2023-01-26T11:51:30.682</Modified>
+      <Modified>2023-02-01T07:49:54.600</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Win10\source\repos\CUGuvenlikUI\MauiApp1\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Regular.ttf">
       <PackagePath>OpenSans-Regular.ttf</PackagePath>
