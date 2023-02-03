@@ -9,7 +9,8 @@ namespace MauiApp1.Services
 {
     public partial class LocationService
     {
-        HttpClient httpClient;
+        readonly HttpClient httpClient;
+        
         public LocationService()
         {
             httpClient = new HttpClient();

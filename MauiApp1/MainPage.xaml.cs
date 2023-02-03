@@ -2,7 +2,7 @@
 using System.Diagnostics;
 using Microsoft.Maui.ApplicationModel;
 using Microsoft.Maui.Devices.Sensors;
-
+using Microsoft.Maui.ApplicationModel.Communication;
 namespace MauiApp1;
 
 public partial class MainPage : ContentPage
@@ -24,39 +24,55 @@ public partial class MainPage : ContentPage
     public async void OnTapGestureRecognizerTapped(object sender, TappedEventArgs args)
     {
         // Handle the tap
-        if (DeviceInfo.Current.Idiom==DeviceIdiom.Desktop)
+        if (DeviceInfo.Current.Idiom == DeviceIdiom.Desktop)
         {
             if (args.Buttons == ButtonsMask.Primary)
             {
                 Console.WriteLine("askdjgkasdhlasdj");
-               
+                var location = new Location(37.060037, 35.35538);
+
+                var options = new MapLaunchOptions
+                {
+                    NavigationMode = NavigationMode.Driving
+
+                };
+
+                try
+                {
+                    await location.OpenMapsAsync(options);
+
+                }
+                catch (Exception ex)
+                {
+                    Console.WriteLine(ex.ToString());
+                    // No map application available to open or placemark can not be located
+                }
             }
         }
         if (DeviceInfo.Current.Idiom == DeviceIdiom.Phone)
         {
             Console.WriteLine("askdjgkasdhlasdj");
-            var placemark = new Placemark
-            {
-                CountryName = "Turkey",   
-                Thoroughfare = "Cukurova University",
-                Locality = "Adana"
-            };
-            
+
+            var location = new Location(37.060037, 35.35538);
+
             var options = new MapLaunchOptions
             {
-                Name = "Çukurova Üniversitesi Rektörlüğü Öğrenci İşleri",
                 NavigationMode = NavigationMode.Driving
+
             };
 
             try
             {
-                await placemark.OpenMapsAsync(options);
+                await location.OpenMapsAsync(options);
 
             }
             catch (Exception ex)
             {
+                Console.WriteLine(ex.ToString());
                 // No map application available to open or placemark can not be located
             }
+            //if (PhoneDialer.Default.IsSupported)
+            //    PhoneDialer.Default.Open("+905434103862");
         }
 
     }

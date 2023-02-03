@@ -24,7 +24,7 @@ namespace MauiApp1.ViewModel
         [RelayCommand]
         async Task GetTaskAsync()
         {
-            if (connectivity.NetworkAccess != NetworkAccess.Internet)
+             if (connectivity.NetworkAccess != NetworkAccess.Internet)
             {
                 await Shell.Current.DisplayAlert("İnternet bağlantısı yok", "Lütfen bağlantınızı kontrol edin", "Tamam");
                 return;
